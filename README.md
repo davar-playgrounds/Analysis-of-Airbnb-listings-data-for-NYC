@@ -4,11 +4,10 @@ Price prediction using sklearn.
 
 Multiple models will be built and comparison between these models based on the cross validation scores.
 
-1) Ridge Regression
-2) Lasso Regression
-3) Random Forest
-4) Gradient Boosting
-5) XGBoost
-6) Neural Network using sklearn's MLPRegressor
+1) Random Forest
+2) Gradient Boosting
+3) XGBoost
+4) Neural Network using sklearn's MLPRegressor
 
-Notebook file has all the code and results.
+Dataset is available on Kaggle. (https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
+Thanks @dgmonov for the dataset.
